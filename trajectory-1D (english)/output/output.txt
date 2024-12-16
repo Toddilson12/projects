@@ -1,0 +1,7 @@
+Tempo ate apogeu(s): 0.940801
+Altura do apogeu(m): 6.21616
+Aceleracao maxima(m s ^ -2): -12.4404
+Tempo para queda do apogeu(t): 1.1569
+Tempo total de voo(t): 2.0977
+Velocidade de impacto(m / s): -10.1966
+Aceleracao no impacto(m s ^ -2): -7.06834
