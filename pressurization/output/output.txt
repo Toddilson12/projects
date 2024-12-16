@@ -1,0 +1,4 @@
+Gamma: 0.629244
+Speed of Sound [m/s]: 580.899
+Combustion Chamber Pressure at Steady State (assymptote) [Pa]: 987415
+Time to Reach ((Alpha)) Fraction of Steady State Pressure [s]: 0.0199098
