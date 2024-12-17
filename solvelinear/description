@@ -1,0 +1,1 @@
+This project contains code to solve linear systems of equations (linearized using log). Specific use of this code was to convert different fitting equations of thermodynamic properties (such as viscosity) using data from different sources. The output is used in my personal CFD project (link in README)
